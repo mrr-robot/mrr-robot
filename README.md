@@ -1,4 +1,11 @@
-<img align="right" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
+<img align="center" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
+
+## About Me: :earth_asia:
+
+1. 👨🏻‍💻 Name: Mr. Robot 
+2. 🎓 Major: Computer Science & Engineering
+3. :seedling: Learning: Networking + Computer Security 
+4. 🦾 Currently Working On: Exploitation
 
 ## Tier
 

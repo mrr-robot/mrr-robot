@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="408" height="318" />
+<img align="center" alt="GIF" src=https://github.com/yoonBot/yoonBot/blob/main/coding.gif width="508" height="418" />
 
 ## About Me: :earth_asia:
 
